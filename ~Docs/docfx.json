@@ -1,0 +1,61 @@
+{
+  "metadata": [
+    {      
+      "dest": "api",
+      "includePrivateMembers": false,
+      "disableGitFeatures": true,
+      "disableDefaultFilter": false,
+      "noRestore": true,
+      "namespaceLayout": "flattened",
+      "memberLayout": "samePage",
+      "allowCompilationErrors": true,
+      "src": [
+        {
+          "files": [
+            "Runtime/**/*.cs",
+            "Editor/**/*.cs"
+          ],
+          "src": ".."
+        }
+      ]
+    }
+  ],
+  "build": {
+    "dest": "_site",
+    "keepFileLink": false,
+    "disableGitFeatures": true,
+    "content": [
+      {
+        "files": [
+          "api/*.yml",
+          "api/**/*.md"
+        ]
+      },
+      {
+        "files": [
+          "getting-started/**/*.md",
+          "getting-started/*.yml",
+          "toc.yml",
+          "*.md"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "images/**"
+        ]
+      }
+    ],
+    "globalMetadata": {
+      "_appTitle": "3lk3 Unity.Utilities"
+    },
+    "template": [
+      "default",
+      "modern"
+    ],
+    "xref": [
+      "https://normanderwan.github.io/UnityXrefMaps/xrefmap.yml"
+    ]
+  }
+}
