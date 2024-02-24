@@ -1,0 +1,14 @@
+{
+    "name": "Elke.Utilities.Runtime",
+    "rootNamespace": "Elke.Utilities.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

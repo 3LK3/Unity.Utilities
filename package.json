@@ -1,0 +1,22 @@
+{
+  "name": "party.elke.utilities",
+  "version": "0.0.1",
+  "displayName": "Unity utilities package",
+  "description": "This is an utility package",
+  "unity": "2023.2",
+  "unityRelease": "11f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {},
+ "keywords": [
+    "unity",
+    "utilities",
+    "utility"
+  ],
+  "author": {
+    "name": "Soeren Spindler",
+    "email": "",
+    "url": ""
+  }
+}
