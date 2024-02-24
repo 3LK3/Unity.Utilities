@@ -3,7 +3,7 @@
 A custom utility package for Unity game engine.
 
 Have a look at the full documentation here: <br>
-[https://3lk3.github.io/Unity.Entities.Utility](https://3lk3.github.io/Unity.Entities.Utility)
+[https://3lk3.github.io/Unity.Utilities](https://3lk3.github.io/Unity.Utilities)
 
 ## Installation
 
