@@ -5,9 +5,8 @@
   "description": "This is an utility package",
   "unity": "2023.2",
   "unityRelease": "11f1",
-  "documentationUrl": "https://example.com/",
-  "changelogUrl": "https://example.com/changelog.html",
-  "licensesUrl": "https://example.com/licensing.html",
+  "documentationUrl": "https://3lk3.github.io/Unity.Utilities/",
+  "changelogUrl": "https://github.com/3LK3/Unity.Utilities/releases",
   "dependencies": {},
  "keywords": [
     "unity",
